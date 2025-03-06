@@ -8,4 +8,13 @@ class Enclos {
 	void addPingouin(Pingouin pingouin) {
 		pingouins.add(pingouin);
 	}
+
+	List<Pingouins> getMale() {
+		List<Pingouins> males = new ArrayList();
+		for(Pingouin pingouin : pingouins) {
+			if (pingouin.getSexe == Sexe.FEMELLE) {
+
+			}
+		}
+	}
 }
