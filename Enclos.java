@@ -8,5 +8,9 @@ class Enclos {
 	void addPingouin(Pingouin pingouin) {
 		pingouins.add(pingouin);
 	}
+
+	int countPingouins() {
+		return pingouins.size();
+	}
 	
 }
