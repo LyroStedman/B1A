@@ -14,6 +14,6 @@ String getCouleur() {
 return couleur;
 }
 
-String getSex() {
+String getSexe() {
 return sexe;
 }
