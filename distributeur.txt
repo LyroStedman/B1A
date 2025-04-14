@@ -1,3 +1,5 @@
-distributeur
+disributeur
 
-distribuer ():
+distribuer ()
+Dans un coin tranquille du port, un distributeur un peu spécial attire les curieux. Pas de chips ni de sodas à l’intérieur, mais des poissons bien frais, tout juste pêchés ! Il clignote doucement, comme un phare miniature, et délivre, sur simple pression d’un bouton, maquereaux, sardines ou dorades, emballés avec soin. Les pêcheurs du coin l’ont surnommé "le Poissomat", et même les mouettes viennent tourner autour, flairant la promesse d’un festin. Un distributeur pas comme les autres, qui sent bon la mer et le savoir-faire d’antan.
+if il est 21:00 and un poisson existe dans l aquarium then le distribiteur distribue de la nourriture
