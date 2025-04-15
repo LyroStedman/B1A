@@ -1,20 +1,17 @@
 class Pingouin {
 
-	String nom;
-	Sexe sexe;
-	Couleur couleur;
 
-	Pingouin(String nom, Sexe sexe, Couleur couleur) {
-		this.nom = nom;
-		this.sexe = sexe;
-		this.couleur = couleur;
-	}
+String nom;
+Sexe sexe;
+String couleur;
 
-	Couleur getCouleur() {
-		return couleur;
-	}
-
-	Sexe getSexe() {
-		return sexe;
-	}
+Pingouin(String nom, Sexe sexe, String couleur) {
+	this.nom = nom;
+	this.sexe = sexe;
+	this.couleur = couleur;
 }
+
+String getCouleur() {
+return couleur;
+}
+
